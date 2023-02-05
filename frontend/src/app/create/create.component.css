@@ -1,0 +1,17 @@
+form{
+    text-align: center;
+}
+.container{
+    margin-left: 15%;
+
+}
+
+input{
+    width: 700px;
+    background-color: black;
+    
+}
+button{
+    margin-left: 85%;
+    width: 100px;
+}
